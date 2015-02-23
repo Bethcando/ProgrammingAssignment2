@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions will make a cache of a matrix 
+## and then invert it. 
 
-## Write a short comment describing this function
+## Function will return a cached matrix for easy
+## retrivial.
 
 makeCacheMatrix <- function(x = matrix()) {
 
